@@ -1,0 +1,322 @@
+
+@font-face {
+    font-family: 'apex_newbold';
+    src: url('../fonts/apexnew-bold-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newbold_italic';
+    src: url('../fonts/apexnew-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newbook';
+    src: url('../fonts/apexnew-book-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newbook_italic';
+    src: url('../fonts/apexnew-bookitalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-bookitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newheavy';
+    src: url('../fonts/apexnew-heavy-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newheavy_italic';
+    src: url('../fonts/apexnew-heavyitalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-heavyitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newlight';
+    src: url('../fonts/apexnew-light-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newlight_italic';
+    src: url('../fonts/apexnew-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newmedium';
+    src: url('../fonts/apexnew-medium-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newmedium_italic';
+    src: url('../fonts/apexnew-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newthin';
+    src: url('../fonts/apexnew-thin-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'apex_newthin_italic';
+    src: url('../fonts/apexnew-thinitalic-webfont.woff2') format('woff2'),
+         url('../fonts/apexnew-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'ambitblack';
+    src: url('../fonts/ambit-black-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitblack_italic';
+    src: url('../fonts/ambit-blackitalic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambit_boldbold';
+    src: url('../fonts/ambit-bold-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambit_bold_italicbold_italic';
+    src: url('../fonts/ambit-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitextralight';
+    src: url('../fonts/ambit-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitextralight_italic';
+    src: url('../fonts/ambit-extralightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-extralightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambit_italicitalic';
+    src: url('../fonts/ambit-italic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitlight';
+    src: url('../fonts/ambit-light-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitlight_italic';
+    src: url('../fonts/ambit-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitregular';
+    src: url('../fonts/ambit-regular-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitsemibold';
+    src: url('../fonts/ambit-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ambitsemibold_italic';
+    src: url('../fonts/ambit-semibolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/ambit-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    /*font-family: 'ambitregular';*/
+    background-color: black;
+}
+main{
+    background-color: #161612;
+}
+h1{
+    font-family:'apex_newbold';
+}
+.row{ display: flex; flex-wrap: wrap; }
+
+.containerr{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+[class*="col-"]{ padding: 15px; }
+
+.col-1 {width: 8.33%;} 
+.col-2 {width: 16.66%;} 
+.col-3 {width: 25%;} 
+.col-4 {width: 33.33%;} 
+.col-5 {width: 41.66%;} 
+.col-6 {width: 50%;} 
+.col-7 {width: 58.33%;} 
+.col-8 {width: 66.66%;} 
+.col-9 {width: 75%;} 
+.col-10 {width: 83.33%;} 
+.col-11 {width: 91.66%;} 
+.col-12 {width: 100%;}

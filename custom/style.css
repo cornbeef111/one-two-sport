@@ -1,0 +1,43 @@
+.overlay {
+	background-color: rgba(0,0,0,0.4);
+	padding: 500px;
+}
+
+#picc {
+	background: url('../images/pics-meal.jpg') no-repeat center center/cover;
+	height: 500px;
+}
+
+#picss{
+	background: url('../images/pics-food.jpg')  no-repeat center center/cover;
+	height: 500px;
+}
+
+#pic {
+	background: url('../images/pics5.jpg') no-repeat center center/cover;
+	height: 600px;
+}
+textarea {
+	height: 100px;
+}
+
+.carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 12.25rem;
+      }
+
+.span_position{
+	position: absolute;
+	top: 230px;
+	right: 0px;
+}
+.font_position {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	
+}
+.text-shift {
+   margin-left: 100px;
+}

@@ -9,7 +9,10 @@
 		height: 50px;
 		width: 100px;
 	}
-
+	.navbar-light .navbar-toggler {
+    color: black;
+    border-color: black;
+}
 
 
 

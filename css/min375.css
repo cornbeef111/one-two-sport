@@ -27,9 +27,21 @@
     	background-color: #3f3d3f;
     }
     #navbarNav a{
-    	color: white;
+    	color: #161216;
     	padding-left: 10px;
     }
+    #navbarNav a:hover{
+    	color: #f9b23d;
+    	box-shadow: 2px 3px;
+    	text-shadow: 0px 2px;
+    	font-size: 18px;
+    }
+    #navbarNav a:active{
+    	color: #f9b23d;
+    	box-shadow: 2px 3px;
+    }
+   
+
 
 
 

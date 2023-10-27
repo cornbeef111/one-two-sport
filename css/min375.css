@@ -2,6 +2,9 @@
 	.containerr{
 		/*max-width: 475px;*/
 	}
+	body {
+    -webkit-tap-highlight-color: #f9b23d;
+    }
 	h1{
 		background-color: yellow;
 	}
@@ -10,10 +13,23 @@
 		width: 100px;
 	}
 	.navbar-light .navbar-toggler {
-    color: #f9b23d;
+    /*color: #f9b23d;*/
     border-color: black;
-}
-
+    }
+     .navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+    }
+    dl, ol, ul {
+    margin-top: 10px;
+    }
+    #navbarNav{
+    	background-color: #3f3d3f;
+    }
+    #navbarNav a{
+    	color: white;
+    	padding-left: 10px;
+    }
 
 
 

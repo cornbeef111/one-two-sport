@@ -13,10 +13,9 @@
 		width: 100px;
 	}
 	.navbar-light .navbar-toggler {
-    /*color: #f9b23d;*/
     border-color: black;
     }
-     .navbar-toggler-icon {
+    .navbar-toggler-icon {
     width: 1em;
     height: 1em;
     }
@@ -25,21 +24,41 @@
     }
     #navbarNav{
     	background-color: #3f3d3f;
+    	padding-bottom: 10px;
     }
     #navbarNav a{
-    	color: #161216;
+    	color: #969596;
     	padding-left: 10px;
+    	font-family: 'apex_newbookapex_newbook';
     }
     #navbarNav a:hover{
     	color: #f9b23d;
     	box-shadow: 2px 3px;
-    	text-shadow: 0px 2px;
+    	text-shadow: 0px 1.5px;
     	font-size: 18px;
     }
     #navbarNav a:active{
     	color: #f9b23d;
     	box-shadow: 2px 3px;
     }
+    
+#picc {
+    background: url('../images/pic.jpeg') no-repeat center center/cover;
+    height: 300px;
+}
+
+#picss{
+    background: url('../images/pics.jpg')  no-repeat center center/cover;
+    height: 300px;
+}
+#picsss{
+    background: url('../images/picss.jpg')  no-repeat center center/cover;
+    height: 300px;
+}
+#pi{
+    background: url('../images/pi.jpg')  no-repeat center center/cover;
+    height: 300px;
+}
    
 
 

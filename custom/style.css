@@ -1,21 +1,6 @@
 .overlay {
-	background-color: rgba(0,0,0,0.4);
-	padding: 500px;
-}
-
-#picc {
-	background: url('../images/pics-meal.jpg') no-repeat center center/cover;
-	height: 500px;
-}
-
-#picss{
-	background: url('../images/pics-food.jpg')  no-repeat center center/cover;
-	height: 500px;
-}
-
-#pic {
-	background: url('../images/pics5.jpg') no-repeat center center/cover;
-	height: 600px;
+	background-color: rgba(0,0,0,0.5);
+	padding: 400px;
 }
 textarea {
 	height: 100px;

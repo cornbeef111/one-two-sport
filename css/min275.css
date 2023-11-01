@@ -6,7 +6,7 @@
     -webkit-tap-highlight-color: #f9b23d;
     }
 	h1{
-		background-color: yellow;
+		font-family: 'ambitextralight';
 	}
 	.logo{
 		height: 50px;
@@ -29,7 +29,7 @@
     #navbarNav a{
     	color: #969596;
     	padding-left: 10px;
-    	font-family: 'apex_newbookapex_newbook';
+    	/*font-family: 'apex_newthin';*/
     }
     #navbarNav a:hover{
     	color: #f9b23d;
@@ -41,25 +41,13 @@
     	color: #f9b23d;
     	box-shadow: 2px 3px;
     }
-    
-#picc {
-    background: url('../images/pic.jpeg') no-repeat center center/cover;
-    height: 300px;
-}
+    .carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 7.25rem;
+      }
 
-#picss{
-    background: url('../images/pics.jpg')  no-repeat center center/cover;
-    height: 300px;
-}
-#picsss{
-    background: url('../images/picss.jpg')  no-repeat center center/cover;
-    height: 300px;
-}
-#pi{
-    background: url('../images/pi.jpg')  no-repeat center center/cover;
-    height: 300px;
-}
-   
+
 
 
 

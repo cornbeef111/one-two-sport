@@ -314,11 +314,6 @@ h1{
 .col-11 {width: 91.66%;} 
 .col-12 {width: 100%;}
 
-
-.hwrite{
-    margin-top: 5px;
-}
-
     
 #picc {
     background: url('../images/pic.jpeg') no-repeat center center/cover;
@@ -337,3 +332,4 @@ h1{
     background: url('../images/pi.jpg')  no-repeat center center/cover;
     height: 400px;
 }
+

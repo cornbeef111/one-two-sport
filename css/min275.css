@@ -1,4 +1,18 @@
 @media only screen and (min-width: 275px){
+
+    .col-sm-1 {width: 8.33%;} 
+    .col-sm-2 {width: 16.66%;} 
+    .col-sm-3 {width: 25%;} 
+    .col-sm-4 {width: 33.33%;} 
+    .col-sm-5 {width: 41.66%;} 
+    .col-sm-6 {width: 50%;} 
+    .col-sm-7 {width: 58.33%;} 
+    .col-sm-8 {width: 66.66%;} 
+    .col-sm-9 {width: 75%;} 
+    .col-sm-10 {width: 83.33%;} 
+    .col-sm-11 {width: 91.66%;} 
+    .col-sm-12 {width: 100%;}
+
 	.containerr{
 		/*max-width: 475px;*/
 	}
@@ -41,6 +55,15 @@
     	color: #f9b23d;
     	box-shadow: 2px 3px;
     }
+    #picc {
+    background: url('../images/Subsec2.jpeg') no-repeat center center/cover;
+    height: 400px;
+    }
+
+    #picss{
+        background: url('../images/Subsec1.jpeg')  no-repeat center center/cover;
+        height: 400px;
+    }
     .carousel-caption {
         position: absolute;
         right: 15%;
@@ -65,7 +88,39 @@
         color: #b4b4b4; 
     }
      .readdesign:hover{
-        color: #f9b23d;    }
+        color: #f9b23d;  
+    }
+    .event{
+       margin-top: 2px;
+    }
+    .eventOverlay {
+    /*background-color: rgba(0,0,0,0.3);*/
+    height: 300px;
+    justify-content: space-between;
+    }
+    .eventimage{
+        background: url('../images/Eventsec.jpeg')  no-repeat center center/cover;
+        height: 300px;
+
+    }
+    .eventpara{
+        font-family: 'apex_newbold';
+        font-size: 5rem;
+        color: #b4b4b4;
+        padding-left: 2rem;
+        padding-top: 2rem;
+        display: inline-flex;
+    }
+    .upPara{
+        /*background-color: black;*/
+        color: white;
+        justify-content: flex-end;
+        align-items: flex-end;
+        display: inline-flex;
+        padding-right: 2rem;
+        font-family: 'ambitsemibold';
+        font-size: 2rem;
+    }
 
 
 

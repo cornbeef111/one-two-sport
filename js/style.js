@@ -14,7 +14,7 @@ document.addEventListener('click',function(){
 		show.style.display="block";
 		text.style.display="none";
 	}
-})
+});
 document.addEventListener('click',function(){
 	if(true){
 		show1.style.display="block";

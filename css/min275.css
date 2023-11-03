@@ -54,12 +54,18 @@
         margin-top: 10px;
     }
     .button:hover{
-        box-shadow: 0px 0px;
+        box-shadow: 2px 2px;
         color: #161616;
         background-color: #f9b23d;
-        text-shadow: 0px 1.5px;
-        border: 2px solid #161616;
+        /*text-shadow: 0px 1.5px;*/
+        border: 1px solid #f9b23d;
     }
+    .readdesign{
+        text-decoration: none;
+        color: #b4b4b4; 
+    }
+     .readdesign:hover{
+        color: #f9b23d;    }
 
 
 

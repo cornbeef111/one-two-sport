@@ -95,12 +95,12 @@
     }
     .eventOverlay {
     /*background-color: rgba(0,0,0,0.3);*/
-    height: 300px;
+    height: 350px;
     justify-content: space-between;
     }
     .eventimage{
         background: url('../images/Eventsec.jpeg')  no-repeat center center/cover;
-        height: 300px;
+        height: 350px;
 
     }
     .eventpara{
@@ -108,18 +108,19 @@
         font-size: 5rem;
         color: #b4b4b4;
         padding-left: 2rem;
-        padding-top: 2rem;
         display: inline-flex;
     }
     .upPara{
-        /*background-color: black;*/
         color: white;
         justify-content: flex-end;
         align-items: flex-end;
         display: inline-flex;
-        padding-right: 2rem;
-        font-family: 'ambitsemibold';
-        font-size: 2rem;
+        padding-right: 3rem;
+        font-family: 'ambitextralight';
+        font-size: 1.5rem;
+    }
+    .upPara p {
+        background-color: transparent;
     }
 
 

@@ -140,6 +140,32 @@
         animation-iteration-count: infinite;
         animation-timing-function: linear;
     }
+    .iVid{
+        text-align: center;
+        background: url('../images/contents.jpeg')  no-repeat center center/cover;
+        /*height: 400px;*/
+    }
+    .iVidoverlay{
+        background-color: rgba(0,0,0,0.7);
+    }
+    .iVidpara{
+        font-family: 'ambit_bold';
+        font-size: 3rem;
+    }
+    .iVidpara p{
+        color: #b4b4b4;
+        padding-top: 2.5rem;
+        text-shadow: 0px 3px;
+    }
+    .iVidpara2{
+        padding-top: 1rem;
+        color: white;
+        margin-right: 8rem;
+        font-size: 2rem;
+    }
+    #iframe1{
+        padding-bottom: 1rem;
+    }
 
 
 

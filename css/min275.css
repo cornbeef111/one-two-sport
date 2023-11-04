@@ -118,11 +118,28 @@
         padding-right: 3rem;
         font-family: 'ambitextralight';
         font-size: 1.5rem;
+        font-weight: bold;
     }
-    .upPara p {
-        background-color: transparent;
+    .eventcard{
+        height: 250px;
+        background-color: #f9b23d;
     }
-
+    .eventoverlay{
+       background-color: rgba(0,0,0,0.3);
+       height: 250px;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .eventcarddiv p{
+        font-family: 'apex_newbold';
+        color: white;
+        font-size: 2rem;
+        animation-name: grow,colorchange;
+        animation-duration: 2s,4s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
 
 
 

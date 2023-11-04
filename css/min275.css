@@ -96,7 +96,8 @@
     .eventOverlay {
     /*background-color: rgba(0,0,0,0.3);*/
     height: 350px;
-    justify-content: space-between;
+    display: flex;
+    /*justify-content: space-between;*/
     }
     .eventimage{
         background: url('../images/Eventsec.jpeg')  no-repeat center center/cover;
@@ -115,10 +116,10 @@
         justify-content: flex-end;
         align-items: flex-end;
         display: inline-flex;
-        padding-right: 3rem;
+        /*padding-right: 3rem;*/
         font-family: 'ambitextralight';
         font-size: 1.5rem;
-        font-weight: bold;
+        font-weight: bolder;
     }
     .eventcard{
         height: 250px;

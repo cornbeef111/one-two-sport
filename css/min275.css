@@ -96,7 +96,6 @@
     .eventOverlay {
     /*background-color: rgba(0,0,0,0.3);*/
     height: 350px;
-    display: flex;
     /*justify-content: space-between;*/
     }
     .eventimage{
@@ -110,6 +109,9 @@
         color: #b4b4b4;
         padding-left: 2rem;
         display: inline-flex;
+    }
+    .row {
+        --bs-gutter-x: 0rem;
     }
     .upPara{
         color: white;

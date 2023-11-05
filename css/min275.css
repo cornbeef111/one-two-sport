@@ -169,6 +169,71 @@
     #iframe1{
         padding-bottom: 1rem;
     }
+    #iframe2{
+        padding-bottom: 1rem;
+    }
+    footer{
+         background-color: black;
+    }
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 1rem;
+    }
+    .icon1{
+        background-image: url('../images/logo//one two sports logo files_Icon 100px.svg');
+        height: 50px;
+        width: 50px;
+        background-repeat: no-repeat;
+    }
+    .icon2{
+        background-image: url('../images/logo/one two sports logo files_Icon 100px 2.svg');
+        height: 50px;
+         width: 50px;
+        background-repeat: no-repeat;
+    }
+    .icon3{
+        background-image: url('../images/logo/one two sports logo files_logo spt lemon 500px.svg');
+        height: 50px;
+         width: 50px;
+        background-repeat: no-repeat;
+    }
+    .icon4{
+        background-image: url('../images/logo/one two sports logo files_Logo sport yellow 1000px.svg');
+        height: 50px;
+         width: 50px;
+        background-repeat: no-repeat;
+    }
+    /*.icon5{
+        background-image: url('../images/logo/one two sports logo files_logo yellow 500px.svg');
+        height: 50px;
+        background-repeat: no-repeat;
+    }*/
+    /*.icon6{
+        background-image: url('../images/logo/one-two-logo-white-500.svg');
+        height: 50px;
+         width: 50px;
+        background-repeat: no-repeat;
+    }*/
+    .icon7{
+        background-image: url('../images/logo/one two sports logo files_Icon 100px 4.svg');
+        height: 50px;
+         width: 50px;
+        background-repeat: no-repeat;
+    }
+    #footerlist{
+        text-align: center;
+        color: white;
+    }
+    #footerlist ul > li{
+        list-style-type: none;
+    }
+    #footerlist ul > li > a{
+        color: white;
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
 
 
 

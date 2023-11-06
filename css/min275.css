@@ -228,11 +228,40 @@
     }
     #footerlist ul > li{
         list-style-type: none;
+        padding-top: 0.5rem;
     }
     #footerlist ul > li > a{
         color: white;
         text-decoration: none;
         font-size: 1.5rem;
+    }
+    #footerlist ul > li > a:hover{
+        color: #f9b23d;
+        box-shadow: 1px 2px;
+        /*text-shadow: 0px 1.5px;*/
+        padding: 5px;
+    }
+    .footersocial{
+        display: flex;
+        justify-content: space-between;
+        width: 40%;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+    }
+    .social{
+        height: 35px;
+        background-color: #a0c541;
+        padding-top: 0.5rem;
+        padding: 5px;
+        border-radius: 20px;
+    }
+    .copy {
+    background-color: #3f3d3f;
+    color: black;
+    text-align: center;
+    }
+    .copy p{
+        padding: 5px;
     }
 
 

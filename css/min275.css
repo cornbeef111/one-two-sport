@@ -246,7 +246,7 @@
         justify-content: space-between;
         width: 40%;
         padding-left: 1rem;
-        padding-bottom: 1rem;
+        padding-bottom: 1.5rem;
     }
     .social{
         height: 35px;
@@ -259,9 +259,10 @@
     background-color: #3f3d3f;
     color: black;
     text-align: center;
+    overflow: hidden;
     }
     .copy p{
-        padding: 5px;
+        padding: 3px;
     }
 
 

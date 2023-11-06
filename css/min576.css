@@ -1,0 +1,80 @@
+@media only screen and (min-width: 576px){
+	.containerr{
+		/*max-width: 475px;*/
+	}
+	.logopush{
+		margin-left: 1.5rem;
+	}
+	#navbarNav{
+    	background-color: white;
+    }
+    .navbar-nav {
+    width: 100%;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    }
+    .nav-link{
+    	font-size: 20px;
+    }
+    #navbarNav a:hover{
+    	color:  #616161;
+    }
+     #navbarNav a{
+     	color: black;
+     	font-family: 'apex_newmedium';
+    }
+      #picss{
+        background: url('../images/Subsec1.jpeg')  no-repeat  center/cover;
+        height: 400px;
+    }
+    .header1{
+    	font-size: 3rem;
+    }
+    .headpara{
+    	font-size: 1.1rem;
+    }
+    .eventpara{
+        font-size: 6rem;
+    }
+    .upPara{
+        padding-right: 4rem;
+        font-size: 2rem;
+    }
+    .footer{
+        padding: 2rem;
+    }
+     .icon1{
+        background-image: url('../images/logo//one two sports logo files_Icon 100px.svg');
+        height: 55px;
+        width: 55px;
+        background-repeat: no-repeat;
+    }
+    .icon2{
+        background-image: url('../images/logo/one two sports logo files_Icon 100px 2.svg');
+        height: 55px;
+         width: 55px;
+        background-repeat: no-repeat;
+    }
+    .icon3{
+        background-image: url('../images/logo/one two sports logo files_logo spt lemon 500px.svg');
+        height: 55px;
+         width: 55px;
+        background-repeat: no-repeat;
+    }
+    .icon4{
+        background-image: url('../images/logo/one two sports logo files_Logo sport yellow 1000px.svg');
+        height: 55px;
+         width: 55px;
+        background-repeat: no-repeat;
+    }
+    #footerlist{
+    	margin-top: -1rem;
+    }
+    .footersocial {
+    width: 30%;
+    padding-left: 2rem;
+    }
+
+
+
+}

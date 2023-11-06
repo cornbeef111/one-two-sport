@@ -147,6 +147,7 @@
         text-align: center;
         background: url('../images/contents.jpeg')  no-repeat center center/cover;
         /*height: 400px;*/
+        margin-top: 2px;
     }
     .iVidoverlay{
         background-color: rgba(0,0,0,0.7);

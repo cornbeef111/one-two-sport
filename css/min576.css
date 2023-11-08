@@ -24,7 +24,7 @@
      	font-family: 'apex_newmedium';
     }
       #picss{
-        background: url('../images/Subsec1.jpeg')  no-repeat  center/cover;
+        /*background: url('../images/Subsec1.jpeg')  no-repeat  center/cover;*/
         height: 400px;
     }
     .header1{

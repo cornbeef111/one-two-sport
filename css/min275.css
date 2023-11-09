@@ -57,17 +57,17 @@
     }
     #picc {
     background: url('../images/Subsec2.jpeg') no-repeat center center/cover;
-    height: 400px;
+    height: 550px;
     }
 
     #picss{
         background: url('../images/option3.jpeg')  no-repeat center center/cover;
-        height: 400px;
+        height: 550px;
     }
     .carousel-caption {
         position: absolute;
         right: 15%;
-        bottom: 3.25rem;
+        top: 6rem;
     }
     .button{
         background-color: #616161;
@@ -94,9 +94,7 @@
        margin-top: 2px;
     }
     .eventOverlay {
-    /*background-color: rgba(0,0,0,0.3);*/
     height: 350px;
-    /*justify-content: space-between;*/
     }
     .eventimage{
         background: url('../images/Eventsec.jpeg')  no-repeat center center/cover;

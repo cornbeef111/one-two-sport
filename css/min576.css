@@ -24,14 +24,24 @@
      	font-family: 'apex_newmedium';
     }
       #picss{
-        /*background: url('../images/Subsec1.jpeg')  no-repeat  center/cover;*/
-        height: 400px;
+        height: 600px;
+    }
+    #picc{
+        height: 600px;
     }
     .header1{
     	font-size: 3rem;
     }
     .headpara{
     	font-size: 1.1rem;
+    }
+     .eventOverlay {
+    /*background-color: rgba(0,0,0,0.3);*/
+    height: 500px;
+    /*justify-content: space-between;*/
+    }
+    .eventimage{
+        height: 500px;
     }
     .eventpara{
         font-size: 6rem;

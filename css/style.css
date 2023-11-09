@@ -329,5 +329,8 @@ h1{
     75%{color: #a0c541;}
     100%{color: #e3de00;}
  }
+ html{
+    scroll-behavior: smooth;
+ }
 
  

@@ -92,6 +92,7 @@
     }
     .event{
        margin-top: 2px;
+       overflow: hidden;
     }
     .eventOverlay {
     height: 350px;

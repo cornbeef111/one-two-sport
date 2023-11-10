@@ -23,3 +23,35 @@ document.addEventListener('click',function(){
 		text1.style.display="none";
 	}
 })
+
+
+// this is for animation
+let sections = document.querySelectorAll('.anime');
+window.onscroll = () => {
+	sections.forEach(sec => {
+		let top = window.scrollY;
+		let offset = sec.offsetTop - 150;
+		let height = sec.offsetHeight;
+
+		if(top >= offset && top < offset + height){
+			sec.classList.add('show-animate');
+		}
+		else{
+			sec.classList.remove('show-animate');
+		}
+	})
+}
+ // this is also to animate the carousel writeup
+let writeUp = document.getElementById('write');
+document.addEventListener("DOMContentLoaded",function(){
+	write.style.display='none'
+	write.style.opacity="0";
+	write.style.transform='translateX(-100%)';
+});
+setTimeout(() => writeUp.style.display='block',1000);
+setTimeout(()=> {writeUp.style.opacity = "1";
+                 writeUp.style.transform='translateX(0)';},2000);
+
+// this is for the event page
+const event = document.getElementById('eventparA');
+setTimeout(() => event.style.filter="blur(0)",2000)

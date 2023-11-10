@@ -263,9 +263,30 @@
     .copy p{
         padding: 3px;
     }
+    .toshowH{
+        transition: 1s;
+    }
+  
+     .eventpara{
+        transition: 1s;
+     }
+     .eventOverlay .animate{
+        transform: translateX(20%);
+        filter: blur(5px);
+     }
+      .eventOverlay .show-animate{
+        transform: translateX(0);
+        filter: blur(0px);
+     }
 
-
-
-
-
+     .paraanimate{
+        transform: scale(.7);
+     }
+     .upPaara{
+        transition: 1s;
+     }
+/*this is for event page*/
+    #eventparA{
+        filter: blur(5px);
+    }
 }

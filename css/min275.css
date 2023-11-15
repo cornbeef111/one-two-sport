@@ -95,6 +95,7 @@
        overflow: hidden;
     }
     .eventOverlay {
+    background-color: rgba(0,0,0,0.2);
     height: 350px;
     }
     .eventimage{
@@ -115,7 +116,7 @@
     .upPara{
         color: white;
         justify-content: flex-end;
-        align-items: flex-end;
+        /*align-items: flex-end;*/
         display: inline-flex;
         padding-right: 2rem;
         font-family: 'ambitextralight';
@@ -123,17 +124,44 @@
         font-weight: bolder;
     }
     .eventcard{
-        height: 250px;
-        background-color: #f9b23d;
+        height: 230px;
+        background: url('../images/smoke.jpg') no-repeat center center/cover;
+        margin-top: -3px;
     }
     .eventoverlay{
-       background-color: rgba(0,0,0,0.3);
-       height: 250px;
+       background-color: rgba(0,0,0,0.5);
+       height: 500px;
         display: flex;
         justify-content: center;
-        align-items: center
+        /*align-items: center*/
     }
-    .eventcarddiv p{
+    .eventcardpic{
+        background:url('../images/event1.jpg') no-repeat center center/cover;
+        height: 50%;
+        width: 95%;
+        margin-top: -60px;
+        text-align: center;
+        /*display: flex;*/
+        /*justify-content: center;*/
+        /*align-items: center;*/
+        color: white;
+        font-size: 2rem;
+        line-height: 24px;
+        font-family: 'apex_newbold';
+        padding: 3.5rem;
+    }
+    .forversus{
+        color: #f9b23d;
+        font-family: 'apex_newthin';
+    }
+    .insidecardpara{
+        font-size: 15px;
+        font-family: 'ambitregular'
+    }
+    .number{
+        font-size: 20px;
+    }
+    /*.eventcarddiv p{
         font-family: 'apex_newbold';
         color: white;
         font-size: 2rem;
@@ -141,7 +169,7 @@
         animation-duration: 2s,4s;
         animation-iteration-count: infinite;
         animation-timing-function: linear;
-    }
+    }*/
     .iVid{
         text-align: center;
         background: url('../images/contents.jpeg')  no-repeat center center/cover;
@@ -152,13 +180,13 @@
         background-color: rgba(0,0,0,0.7);
     }
     .iVidpara{
-        font-family: 'ambit_bold';
+        font-family: 'apex_newbold';
         font-size: 3rem;
     }
     .iVidpara p{
         color: #b4b4b4;
         padding-top: 2.5rem;
-        text-shadow: 0px 3px;
+        /*text-shadow: 0px 3px;*/
     }
     .iVidpara2{
         padding-top: 1rem;
@@ -250,7 +278,7 @@
     }
     .social{
         height: 35px;
-        background-color: #a0c541;
+        background-color: #f9b23d;
         padding-top: 0.5rem;
         padding: 5px;
         border-radius: 20px;

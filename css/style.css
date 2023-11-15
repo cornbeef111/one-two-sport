@@ -315,7 +315,7 @@ h1{
 .col-12 {width: 100%;}
 
 
-@keyframes grow {
+/*@keyframes grow {
     0%{ font-size: 2rem;}
     25%{font-size: 2.5rem;}
     50%{font-size: 3rem;}
@@ -328,7 +328,7 @@ h1{
     50%{color: #161216;}
     75%{color: #a0c541;}
     100%{color: #e3de00;}
- }
+ }*/
  html{
     scroll-behavior: smooth;
  }

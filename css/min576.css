@@ -103,7 +103,9 @@
      .upPaara{
         transition: 1s;
      }
-    
+    .backgroundbtn{
+        right: revert;
+    }
 
 
 }

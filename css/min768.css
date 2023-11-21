@@ -22,6 +22,23 @@
     width: 20%;
     padding-left: 2rem;
     }
+     .eventholder{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 100%;
+     }
+     .eventcardpic{
+        margin-top: 20px;
+        height: 250px;
+    }
+     .eventcardpic2{
+        height: 250px;
+     }
+     .eventoverlay{
+        height: 100%;
+        padding-bottom: 2rem;
+     }
 
 
 

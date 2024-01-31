@@ -125,19 +125,19 @@
     }
     .eventcard{
         /*height: 230px;*/
-        background: url('../images/smoke.jpg') no-repeat center center/cover;
+        background: url('../images/judgementday-backdrop.jpg') no-repeat center center/cover;
         margin-top: -3px;
     }
     .eventoverlay{
-       background-color: rgba(0,0,0,0.8);
+       background-color: rgba(0,0,0,0.9);
        height: 500px;
         display: flex;
         justify-content: center;
         /*align-items: center*/
     }
     .eventcardpic{
-        background:url('../images/event1.jpg') no-repeat center center/cover;
-        height: 50%;
+        background:url('../images/Judgementday-7x6.jpg') no-repeat center center/cover;
+        height: 90%;
         margin-top: -60px;
         text-align: center;
         color: white;
@@ -158,6 +158,11 @@
         font-family: 'apex_newbold';
         padding: 3.5rem;
         position: relative;
+    }
+    .details-push{
+        display: inline-block;
+        margin-top: 25rem;
+        font-size: 22px;
     }
     .backgroundbtn{
         position: absolute;

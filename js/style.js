@@ -11,13 +11,13 @@ document.addEventListener('DOMContentLoaded',function(){
   show1.style.display ="none"; 
 })
 
-document.addEventListener('click',function(){
+text.addEventListener('click',function(){
 	if(true){
 		show.style.display="block";
 		text.style.display="none";
 	}
 });
-document.addEventListener('click',function(){
+text1.addEventListener('click',function(){
 	if(true){
 		show1.style.display="block";
 		text1.style.display="none";

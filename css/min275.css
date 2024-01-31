@@ -161,7 +161,7 @@
     }
     .details-push{
         display: inline-block;
-        margin-top: 25rem;
+        margin-top: 26rem;
         font-size: 22px;
     }
     .tixbtn{
@@ -174,12 +174,13 @@
         border: 2px dotted black;
     }
     .backgroundbtn{
-        position: absolute;
+        /* position: absolute;
         background-color:rgba(0,0,0,0.8);
         top: 6px;
         padding: 5.7rem;
         transition: 2s linear;
-        left: 3rem;
+        left: 3rem; */
+        display: none;
     }
     #backbtn{
         transition: 1s ease-out;
@@ -188,6 +189,7 @@
         transition: 1s ease-out;
     }
     .eventbtn{
+        display: none;
         background-color: #616161;
         font-size: 20px;
         text-decoration: none;

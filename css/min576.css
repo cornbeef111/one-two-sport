@@ -46,6 +46,10 @@
     .eventpara{
         font-size: 6rem;
     }
+    .details-push{
+        padding-top: 28rem;
+    
+    }
     .upPara{
         padding-right: 4rem;
         font-size: 2rem;
@@ -96,6 +100,9 @@
         transform: translateX(0);
         filter: blur(0px);
      }
+     .eventcardpic{
+     margin-top: -49px;
+    }
 
      .paraanimate{
         transform: scale(.7);
@@ -106,6 +113,4 @@
     .backgroundbtn{
         right: revert;
     }
-
-
 }

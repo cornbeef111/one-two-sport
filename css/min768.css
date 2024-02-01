@@ -23,24 +23,47 @@
     padding-left: 2rem;
     }
      .eventholder{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
+        /* display: flex; */
+        /* flex-wrap: wrap; */
+        /* justify-content: space-around; */
         width: 100%;
+        margin-left: 20px;
      }
      .eventcardpic{
-        margin-top: 20px;
-        height: 250px;
+        /* margin-top: 20px;
+        height: 250px; */
+        display: none;
     }
      .eventcardpic2{
         height: 250px;
      }
      .eventoverlay{
-        height: 100%;
-        padding-bottom: 2rem;
+        height: unset;
+        /* padding-bottom: rem; */
      }
-
-
+     .eventcardpicForBigScreen{
+      background:url('../images/Judgementday-7x6.jpg') no-repeat center center/contain;
+      width: 500px;
+      height: 500px;
+      margin-left: 10px;
+    }
+     .hideFrame{
+      display: flex;
+     height: 500px;
+     align-items: center;
+     font-family: 'apex_newbold';
+     font-size: 2rem;
+     color: white;
+     }
+     .insidecardpara{
+      font-size: 20px;
+      font-family: 'ambitregular';
+      color: white;
+    }
+    .shiftParagraph{
+      margin-left: 10px;
+    }
+ 
 
 
 }

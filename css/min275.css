@@ -136,7 +136,7 @@
         /*align-items: center*/
     }
     .eventcardpic{
-        background:url('../images/Judgementday-7x6.jpg') no-repeat center center/contain;
+        background:url('../images/judgementday-7x6.jpg') no-repeat center center/contain;
         height: 100%;
         margin-top: -60px;
         text-align: center;
@@ -262,7 +262,7 @@
         padding-bottom: 1rem;
     }
     footer{
-         background-color: #68574b;
+         background-color: #000000;
     }
     .footer{
         display: flex;
@@ -320,26 +320,30 @@
         padding-top: 0.5rem;
     }
     #footerlist ul > li > a{
-        color: black;
+        color: #666362;
         text-decoration: none;
         font-size: 1.5rem;
+        font-weight: bolder;
+}
     }
     #footerlist ul > li > a:hover{
-        color: black;
+        color: #f9b23d;
         box-shadow: 1px 2px;
         /*text-shadow: 0px 1.5px;*/
         padding: 5px;
     }
     .footersocial{
         display: flex;
-        justify-content: space-between;
-        width: 40%;
+        justify-content: center;
         padding-left: 1rem;
         padding-bottom: 1.5rem;
     }
+    .footersocial div{
+        padding-left: 25px;
+    }
     .social{
         height: 35px;
-        background-color: black;
+        background-color: #383131;
         padding-top: 0.5rem;
         padding: 5px;
         border-radius: 20px;

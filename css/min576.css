@@ -85,8 +85,12 @@
     	margin-top: -1rem;
     }
     .footersocial {
-    width: 30%;
+    /* width: 30%; */
+    justify-content: center;
     padding-left: 2rem;
+    }
+    .footersocial div{
+        padding-left: 25px;
     }
 
      .eventpara{

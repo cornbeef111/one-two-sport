@@ -18,9 +18,13 @@
     }
     .footersocial {
     margin-top: 1rem;
-    margin-left: 1rem;
-    width: 20%;
-    padding-left: 2rem;
+    margin-left: 0;
+    /* width: 20%; */
+    padding-left: 0;
+    justify-content: center;
+    }
+     .footersocial div{
+        padding-left: 25px;
     }
      .eventholder{
         /* display: flex; */
@@ -61,7 +65,7 @@
       color: white;
     }
     .shiftParagraph{
-      margin-left: 10px;
+      margin-left: 20px;
     }
  
 
